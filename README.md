@@ -31,7 +31,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install prerequ
 pip install openpyxl 
 ```
 ```
-git clone https://github.com/wreckitkenny/MichaCry.git
+git clone https://github.com/wreckitkenny/AmigoStaffTool.git
 ```
 
 ## Usage
