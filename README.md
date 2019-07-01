@@ -42,10 +42,10 @@ python3 AmigoStaffToolGUI.py
 Download at [Amigo Staff Tool](https://bit.ly/2XHYN6n)
 
 ## Screenshot:
-![Shot](https://github.com/wreckitkenny/AmigoStaffTool/Screenshot/Screenshot_1.png)
-![Shot](https://github.com/wreckitkenny/AmigoStaffTool/Screenshot/Screenshot_2.png)
-![Shot](https://github.com/wreckitkenny/AmigoStaffTool/Screenshot/Screenshot_3.png)
-![Shot](https://github.com/wreckitkenny/AmigoStaffTool/Screenshot/Screenshot_4.png)
+![Shot](https://github.com/wreckitkenny/AmigoStaffTool/tree/master/Screenshot/Screenshot_1.png)
+![Shot](https://github.com/wreckitkenny/AmigoStaffTool/tree/master/Screenshot/Screenshot_2.png)
+![Shot](https://github.com/wreckitkenny/AmigoStaffTool/tree/master/Screenshot/Screenshot_3.png)
+![Shot](https://github.com/wreckitkenny/AmigoStaffTool/tree/master/Screenshot/Screenshot_4.png)
 
 ## Contribute:
 Feedback me more features if you want it :D
