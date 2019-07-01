@@ -43,8 +43,11 @@ Download at [Amigo Staff Tool](https://bit.ly/2XHYN6n)
 
 ## Screenshot:
 ![Shot](https://github.com/wreckitkenny/AmigoStaffTool/blob/master/Screenshot/Screenshot_1.png)
+
 ![Shot](https://github.com/wreckitkenny/AmigoStaffTool/blob/master/Screenshot/Screenshot_2.png)
+
 ![Shot](https://github.com/wreckitkenny/AmigoStaffTool/blob/master/Screenshot/Screenshot_3.png)
+
 ![Shot](https://github.com/wreckitkenny/AmigoStaffTool/blob/master/Screenshot/Screenshot_4.png)
 
 ## Contribute:
