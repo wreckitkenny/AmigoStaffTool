@@ -1,8 +1,6 @@
 # Amigo Staff Tool
 A Python tool that is used to extract Staff information from an Excel file and add more staffs.
 
-Copyright 2019 | Amigo Staff Tool | Written by [Wreck-it Kenny](https://github.com/wreckitkenny)
-
 ## DISCLAIMER: 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
@@ -61,3 +59,5 @@ Feedback me more features if you want it :D
 **I need your Help to become it to better.** 
 
 *Thank you!!!*
+
+Copyright@2019 | Amigo Staff Tool | Written by [Wreck-it Kenny](https://github.com/wreckitkenny)
