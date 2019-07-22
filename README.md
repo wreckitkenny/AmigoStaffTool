@@ -39,7 +39,7 @@ The GUI is based on Tkinter. You will need to install the Tkinter or TK package 
 python3 AmigoStaffToolGUI.py
 ```
 ## Executable Version
-Download at [Amigo Staff Tool](https://bit.ly/2XHYN6n)
+Download at [Amigo Staff Tool](https://1drv.ms/u/s!Ak-6XXP40tnxhEVqLcavdZdUXCuT?e=eRy5Kb)
 
 ## Screenshot
 ![Shot](https://github.com/wreckitkenny/AmigoStaffTool/blob/master/Screenshot/Screenshot_1.png)
